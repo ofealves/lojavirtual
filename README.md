@@ -1,1 +1,4 @@
 # lojavirtual
+
+
+arquivo alterado!!
